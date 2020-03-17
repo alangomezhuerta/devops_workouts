@@ -9,7 +9,7 @@ you assign to each workout
 
 
 ##############################################################################
-GOAL
+# GOAL
 
 If you really want to succeed, you'd better annotate the goal you are 
 looking to achieve; 'cause, you are targeting a goal... isn't it?
@@ -17,7 +17,7 @@ looking to achieve; 'cause, you are targeting a goal... isn't it?
 
 
 ##############################################################################
-RECORD TIME
+# RECORD TIME
 
 The scrip recordtime.sh can be used to track the time you spend in your 
 workout, the results are stored in the tracking file
@@ -25,7 +25,7 @@ workout, the results are stored in the tracking file
 
 
 ##############################################################################
-TRACKING
+# TRACKING
  
 This file tracks the time assigned to the workout in this format:
 datetime started,datetime stopped,elapsed time,ranking
@@ -42,7 +42,7 @@ ranking			=	[1,2,3]
 
 
 ##############################################################################
-RESOURCES
+# RESOURCES
 
 Use this file to annotate links to reference material for a deeper 
 follow up
